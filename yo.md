@@ -16,9 +16,9 @@ _Tengo 33, Soy Médica, Nací en Ibague
 > Dream big, start small (Simon Sinek)
 
  
- [CvLac] (https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000116893)
+ [CvLac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000116893)
  
- [Linkedin] (https://www.linkedin.com/in/andrea-elena-garc%C3%ADa-l%C3%B3pez-981341119/)
+ [Linkedin](https://www.linkedin.com/in/andrea-elena-garc%C3%ADa-l%C3%B3pez-981341119/)
  
  
  ![Mi sueño](https://www.landuum.com/wp-content/uploads/2019/03/cultura_paisajeiluminado_landuum5.jpg)
