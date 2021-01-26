@@ -3,8 +3,11 @@
 
 ## Andrea Garcia
 
-_Tengo 33, Soy Médica, Nací en Ibague
+Tengo 33, soy Médica, nací en Ibague
 
+ [CvLac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000116893)
+ [Linkedin](https://www.linkedin.com/in/andrea-elena-garc%C3%ADa-l%C3%B3pez-981341119/)
+ 
 **Lo que me gusta:
 
 * Me gusta pintar
@@ -20,7 +23,7 @@ _Tengo 33, Soy Médica, Nací en Ibague
  
  [Linkedin](https://www.linkedin.com/in/andrea-elena-garc%C3%ADa-l%C3%B3pez-981341119/)
  
- 
+ **Mi sueño: 
  ![Mi sueño](https://www.landuum.com/wp-content/uploads/2019/03/cultura_paisajeiluminado_landuum5.jpg)
 
  
