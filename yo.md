@@ -21,8 +21,7 @@ _Tengo 33, Soy Médica, Nací en Ibague
  [Linkedin] (https://www.linkedin.com/in/andrea-elena-garc%C3%ADa-l%C3%B3pez-981341119/)
  
  
- ![Alt Text](https://www.landuum.com/historia-y-cultura/el-paisaje-iluminado/)
+ ![**Mi sueño](https://www.landuum.com/wp-content/uploads/2019/03/cultura_paisajeiluminado_landuum5.jpg)
 
- 
  
  [Feliz Noche] (https://co.pinterest.com/pin/626000416936236505/)
